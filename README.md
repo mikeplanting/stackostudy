@@ -1,4 +1,4 @@
-# Stackostudy
+# Stackostudy - https://github.com/rossturk/stackostudy/
 
 This is a quick study of the Stack Overflow public dataset in BigQuery.
 
@@ -19,3 +19,8 @@ pip3 install dbt openlineage-dbt
 ```bash
 OPENLINEAGE_URL=http://localhost:5000 dbt-ol run
 ```
+
+brew install pyenv
+# https://docs.getdbt.com/dbt-cli/cli-overview
+# https://github.com/dbt-labs/dbt-core
+# https://docs.getdbt.com/dbt-cli/install/pip
